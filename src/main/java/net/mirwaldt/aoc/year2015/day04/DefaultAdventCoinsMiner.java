@@ -1,4 +1,4 @@
-package net.mirwaldt.day04;
+package net.mirwaldt.aoc.year2015.day04;
 
 import java.nio.charset.StandardCharsets;
 import java.security.MessageDigest;
